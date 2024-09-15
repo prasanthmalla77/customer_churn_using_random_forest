@@ -1,7 +1,3 @@
-Here’s a draft for a GitHub README file for your Customer Churn project:
-
----
-
 # Customer Churn Prediction
 
 Welcome to my Customer Churn Prediction project! This repository contains a comprehensive analysis of customer churn using machine learning techniques. The goal of this project is to predict which customers are likely to leave a service, based on their interactions and features.
@@ -17,9 +13,6 @@ This project explores the Customer Churn dataset and demonstrates the applicatio
 - [Steps and Methodology](#steps-and-methodology)
 - [Evaluation Metrics](#evaluation-metrics)
 - [Code Walkthrough](#code-walkthrough)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Description
 
@@ -31,7 +24,7 @@ The project involves analyzing customer data to predict churn using a Random For
 
 ## Dataset
 
-The dataset used in this project is the [Customer Churn dataset](link-to-dataset) which includes features related to customer demographics, services, and usage. 
+The dataset used in this project is the [Customer Churn dataset](https://github.com/prasanthmalla77/customer_churn_using_random_forest/blob/main/Customer-Churn.csv) which includes features related to customer demographics, services, and usage. 
 
 ## Steps and Methodology
 
@@ -68,31 +61,3 @@ The repository contains the following key files:
 - `data/Customer-Churn.csv`: Dataset used for the analysis.
 - `README.md`: Documentation for the project.
 
-## Getting Started
-
-To replicate or build upon this project:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/customer-churn-prediction.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd customer-churn-prediction
-   ```
-3. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open the Jupyter notebook and follow the steps outlined.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, please create a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to replace placeholders like `link-to-dataset` and `yourusername` with actual links and your GitHub username. You can also adjust any sections to better fit your project's details!
